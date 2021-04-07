@@ -99,3 +99,4 @@ Experience - installation of base station equipment and 3G communication antenna
 с 09.2019 - 02.2020 - Software engineer (Marketing Technologies LLC - dismissed on its own - in fact, incompetence / unprofessionalism / disorganization of the team lead).   
 
 
+<a align="right" href="https://github.com/ALexeyP0708">© AlexeyP0708</a>
