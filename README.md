@@ -78,7 +78,7 @@ In 2008 I graduated in absentia from the Ural Technical Institute of Communicati
 
 **Work experience**  
 
-** In service of construction and communication**  
+**In service of construction and communication**  
 
 04.2005 - 12.2006 - assembler of radio-electronic equipment and instruments - 2nd category (Noyabrskneftespetsstroy LLC. (Literally -   Special Oil Builder Noyabrsk city LLC)   fired of my own will);  
 Experience - construction and maintenance in the field of wire communication;  
@@ -94,11 +94,13 @@ Experience - installation of base station equipment and 3G communication antenna
 С 04.2011 - 06.2011 - private activity (traveling brigade) for the installation of the installation of 3G cellular communication equipment of the MEGAFON OJSC network.  
  on 2012 - Tired of working as a simple worker with the position of an engineer.  
   
-**in service of programming **:  
+**In service of programming**  
+
 02.2019 - 1 month - PHP programmer (Individual entrepreneur  Malygin I.Yu. - dismissed of his own free will - In fact, the Entrepreneur was not doing well )  
-с 09.2019 - 02.2020 - Software engineer (Marketing Technologies LLC - dismissed on its own - in fact, incompetence / unprofessionalism / disorganization of the team lead).   
+с 09.2019 - 02.2020 - Software engineer (Marketing Technologies LLC - dismissed on its own - in fact, incompetence / unprofessionalism / disorganization of the team lead).     
 
 <br/>
+
 <div align="right">
 	<a href="https://github.com/ALexeyP0708">© AlexeyP0708</a>
 </div>
