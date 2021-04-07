@@ -93,8 +93,10 @@ Experience - design / implementation / administration of office PBX, IP telephon
 
 2009.12 - 2011.03 -   Communication engineer of the 1st category ( Construction company TRON LLC) - fired of my own will)  
 Experience - installation of base station equipment and 3G communication antennas. Installation of radio relay equipment and antennas.  
-С 04.2011 - 06.2011 - private activity (traveling brigade) for the installation of the installation of 3G cellular communication equipment of the MEGAFON OJSC network.  
- on 2012 - Tired of working as a simple worker with the position of an engineer.  
+
+2011.04 - 2011.06 - private activity (traveling brigade) for the installation of the installation of 3G cellular communication equipment of the MEGAFON OJSC network.   
+
+on 2012 - Tired of working as a simple worker with the position of an engineer.    
   
 #### In service of programming 
 
