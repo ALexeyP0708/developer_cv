@@ -7,8 +7,7 @@
 	<br/> 
 	Алексей Пахомов <br/>
 	1984 года рождения. <br/>
- 	г.Екатеринбург, РФ
-
+ 	г.Екатеринбург, РФ  <br/>
 	 Telegram : <a href="https://t.me/alexeyp0708">@alexeyp0708</a> <br/> 
 	<img src="https://img.shields.io/badge/PHP-%3E%3D7.4-blue"/> 
 	<img src="https://img.shields.io/badge/MySQL-blue"/> 
