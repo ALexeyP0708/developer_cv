@@ -78,28 +78,29 @@ In 2004 I graduated from the Miass Electromechanical College with a degree in Co
 
 In 2008 I graduated in absentia from the Ural Technical Institute of Communications and Informatics  with a degree in “Multichannel Information Systems”.  
 
-**Work experience**  
+### Work experience  
 
-**In service of construction and communication**  
+#### In service of construction and communication  
 
-04.2005 - 12.2006 - assembler of radio-electronic equipment and instruments - 2nd category (Noyabrskneftespetsstroy LLC. (Literally -   Special Oil Builder Noyabrsk city LLC)   fired of my own will);  
+2005.04 - 2006.12 - assembler of radio-electronic equipment and instruments - 2nd category (Noyabrskneftespetsstroy LLC. (Literally -   Special Oil Builder Noyabrsk city LLC)   fired of my own will);  
 Experience - construction and maintenance in the field of wire communication;  
 
-01.2007 - 03.2009 -Communication engineer of the 1-2 category  (SeverGazStroy LLC (Literally - North Gas Builder LLC) - fired of my own will);   
+2007.12 - 2009.03 - Communication engineer of the 1-2 category  (SeverGazStroy LLC (Literally - North Gas Builder LLC) - fired of my own will);   
 Experience - construction and maintenance in service of wire communication, construction and modernization of GSM base stations;  
 
-06.2009 - 10.2009 - Specialist of the 1st category of the information technology department in the management apparatus. ( Uralneft OJSC (Literally - Ural Oil OJSC) - dismissed on staff redundancy due to bankruptcy).  
+2009.06 - 2009.10 - Specialist of the 1st category of the information technology department in the management apparatus. ( Uralneft OJSC (Literally - Ural Oil OJSC) - dismissed on staff redundancy due to bankruptcy).  
 Experience - design / implementation / administration of office PBX, IP telephony, organization of communication on drilling rigs.  
 
-12.2009 - 03.2011-   Communication engineer of the 1st category ( Construction company TRON LLC) - fired of my own will)  
+2009.12 - 2011.03 -   Communication engineer of the 1st category ( Construction company TRON LLC) - fired of my own will)  
 Experience - installation of base station equipment and 3G communication antennas. Installation of radio relay equipment and antennas.  
 С 04.2011 - 06.2011 - private activity (traveling brigade) for the installation of the installation of 3G cellular communication equipment of the MEGAFON OJSC network.  
  on 2012 - Tired of working as a simple worker with the position of an engineer.  
   
-**In service of programming**  
+#### In service of programming 
 
-02.2019 - 1 month - PHP programmer (Individual entrepreneur  Malygin I.Yu. - dismissed of his own free will - In fact, the Entrepreneur was not doing well )  
-с 09.2019 - 02.2020 - Software engineer (Marketing Technologies LLC - dismissed on its own - in fact, incompetence / unprofessionalism / disorganization of the team lead).     
+2019.02 - 1 month - PHP programmer (Individual entrepreneur  Malygin I.Yu. - dismissed of his own free will - In fact, the Entrepreneur was not doing well )   
+
+2019.09 - 2020.02 - Software engineer (Marketing Technologies LLC - dismissed on its own - in fact, incompetence / unprofessionalism / disorganization of the team lead).       
 
 <br/>
 
