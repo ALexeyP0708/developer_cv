@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/SOLID-green"/> 
 	<img src="https://img.shields.io/badge/MVC+HMVC-green"/> 
 	<img src="https://img.shields.io/badge/PHPDoc-green"/> 
-	<img src="https://img.shields.io/badge/JSDoc-green"/> 
+	<img src="https://img.shields.io/badge/JSDoc-green"/> <br/> 
 	<img src="https://img.shields.io/badge/OpenAPI+JSONSchema-orange"/> 
 </div></td></tr></table>
 <br/>
