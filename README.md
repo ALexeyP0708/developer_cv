@@ -6,10 +6,16 @@
 	<b align="center">Junior to Middle</b>
 	<br/>  <br/>
 	Alexey Pakhomov <br/>
-	born in 1984  	<br/> <br/>
-	from Russia, Yekaterinburg city  <br/>	<br/>	
-	 Telegram : <a href="https://t.me/alexeyp0708">@alexeyp0708</a> <br/> <br/>
-	<a href="https://github.com/ALexeyP0708/developer_cv/discussions/1">Github discussion developer cv</a> <br/> <br/>
+	born in 1984  	<br/> 
+	<br/>
+	from Russia, Yekaterinburg city  <br/>	
+	<br/>	
+	 Telegram : <a href="https://t.me/alexeyp0708">@alexeyp0708</a> <br/>
+	 Skype : <a href="https://join.skype.com/invite/c62EbQTkg5Fc">live:alexeyp0708</a><br/> 
+	 Email : <a href="mailto:vacancy@sun66.ru">vacancy@sun66.ru</a><br/> 
+	 <br/>
+	<a href="https://github.com/ALexeyP0708/developer_cv/discussions/1">Github discussion developer cv</a> <br/> 
+	<br/>
 	<img src="https://img.shields.io/badge/PHP-%3E%3D7.4-blue"/> 
 	<img src="https://img.shields.io/badge/MySQL-blue"/> 
 	<img src="https://img.shields.io/badge/MongoDB-blue"/> 
