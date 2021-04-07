@@ -2,7 +2,7 @@
 <h1 align="center">PHP developer CV</h1> 
 <table width="100%" ><tr><td>
 <img width="1000px"/>
-<img align="left" src="https://cdn4.telesco.pe/file/qXHubzmpG6Htvo17ItBOnyNlkTKH1oTrEAPAW30hLOezyN5785gLK7WQ9MRLEQ94wvLnYB51-n0WQa1C2suwpLk4MW-BYDKImpX165m7kar9bEq7KaTBhd_eKxu1vW6H0CDGbV9i1-iwRoIAqVqyuPpVhByBcvSSX-zIAm9VVUZUX7XvkR5rj1Y09SB183lNsOielbgjzdO9D3WSzZAIQJ-KlaCXz7b7SGpdAuLiHW8mwFXK977dcYwYiqpmtSckvo7FHoqxZJVy-qHujHzcVg8ondm6Mb9bb5Ebh4xLZrBjAe2uLNHM_2-HI7G_oWMwBHXWJt3kycdIpZv3e6KF8A.jpg"/><div align="right"> 
+<img align="left"  width="250px" src="foto.jpg"/><div align="right"> 
 	<b align="center">Junior to Middle</b>
 	<br/> 
 	Алексей Пахомов <br/>
