@@ -2,7 +2,7 @@
 <h1 align="center">PHP developer CV</h1> 
 <table width="100%" ><tr><td>
 <img width="1000px"/>
-<img align="left" src="foto.jpg"/><div align="right"> 
+<img align="left" width="250" src="foto.jpg"/><div align="right"> 
 	<b align="center">Junior to Middle</b>
 	<br/> 
 	Alexey Pakhomov <br/>
