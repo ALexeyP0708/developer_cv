@@ -4,11 +4,11 @@
 <img width="1000px"/>
 <img align="left"  width="250px" src="foto.jpg"/><div align="right"> 
 	<b align="center">Junior to Middle</b>
-	<br/> 
-	Алексей Пахомов <br/>
-	1984 года рождения. <br/>
- 	г.Екатеринбург, РФ  <br/>
-	 Telegram : <a href="https://t.me/alexeyp0708">@alexeyp0708</a> <br/> 
+	<br/> <br/> 
+	Алексей Пахомов <br/> 
+	1984 года рождения. <br/><br/>
+ 	г.Екатеринбург, РФ  <br/><br/>
+	 Telegram : <a href="https://t.me/alexeyp0708">@alexeyp0708</a> <br/> <br/>
 	<img src="https://img.shields.io/badge/PHP-%3E%3D7.4-blue"/> 
 	<img src="https://img.shields.io/badge/MySQL-blue"/> 
 	<img src="https://img.shields.io/badge/MongoDB-blue"/> 
