@@ -9,6 +9,7 @@
 	1984 года рождения. <br/><br/>
  	г.Екатеринбург, РФ  <br/><br/>
 	 Telegram : <a href="https://t.me/alexeyp0708">@alexeyp0708</a> <br/> <br/>
+	<a href="https://github.com/ALexeyP0708/developer_cv/discussions/1">Github discussions developer cv</a> <br/> <br/>
 	<img src="https://img.shields.io/badge/PHP-%3E%3D7.4-blue"/> 
 	<img src="https://img.shields.io/badge/MySQL-blue"/> 
 	<img src="https://img.shields.io/badge/MongoDB-blue"/> 
