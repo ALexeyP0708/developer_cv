@@ -51,7 +51,7 @@ Since there is no production experience, the objective assessment of my knowledg
 5. DataBase:
 	- MySql и SQLite -  middle knowledge.  
 	-  MongoDB - middle knowledge. Experience 4-5 months of active use. 
-6.  OpenAPI 3 и JSONSchema -   minimum knowledge. Applied several times 
+6.  OpenAPI 3 и JSONSchema -   minimum knowledge. 
 8.  Code Documentation -  middle knowledge. ... I try to document all my code in PHPDoc and JSDoc. Also fill in README.md.
 9.  GIT - middle knowledge;
 10. Linux - User level;
@@ -60,13 +60,12 @@ Since there is no production experience, the objective assessment of my knowledg
 	- Ngnix - no experience;  
 12. Docker - no experience;
 13. CD/CI - no experience;
-14. CurrentIDE - PhpStrom ;
+14. Current IDE - PhpStrom ;
 15. English is minimal;
 
 Knowledge qualification and evolution of code quality can be assessed by looking at my repositories [GitHub](https://github.com/ALexeyP0708).    
-I ask you not to focus on the quality of the code, which you are used to writing. 
-From the first time, high-quality code is written only with well-formed code patterns.
-
+I ask you not to focus on the quality of the code, which you are used to writing.   
+From the first time, high-quality code is written only with well-formed code patterns.  
 In practice, in the first place is the implementation of the idea and its concept, then comes the implementation of quality (refactoring stage). And quality takes time and resources.
 
 
