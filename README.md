@@ -74,6 +74,7 @@ In practice, in the first place is the implementation of the idea and its concep
 
 **Learning:**
 In 2004 I graduated from the Miass Electromechanical College with a degree in Communication with Mobile Objects.  
+
 In 2008 I graduated in absentia from the Ural Technical Institute of Communications and Informatics  with a degree in “Multichannel Information Systems”.  
 
 **Work experience**  
