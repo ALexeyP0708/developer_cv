@@ -40,7 +40,7 @@ Since there is no production experience, the objective assessment of my knowledg
 	-  PSR specification - middle knowledge.  
 	- ООП и SOLID - good knowledge.  At the stage of implementing an idea, I often write "bold" classes and "bold" methods.  In the future, I try to decompose code and share responsibility (S);
 	-  design patterns - minimum knowledge. I am familiar with design patterns, but I have not designed code based on patterns.  In my case, the design of the code was formed at the stage of writing the code.
-	- Unit tests- middle knowledge. Lately I've been trying to write BDD tests.  TDD tests did not write;
+	- Unit tests- middle knowledge. Lately I've been began to write BDD tests.  TDD tests did not write;
 	- MVC/HMVC  -good knowledge;
 	- composer- middle knowledge; 
 	- Laravel -  minimum (basic) knowledge. 
