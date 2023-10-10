@@ -3,7 +3,7 @@
 <h1 align="center">PHP developer CV</h1> 
 <table width="100%" ><tr><td>
 <img width="1000px"/>
-<img align="left" width="250" src="foto.jpg"/><div align="right"> 
+<img align="left" width="250" src="photo_2023-10-10_23-05-35.jpg"/><div align="right"> 
 	<b align="center">Junior +</b>
 	<br/>  <br/>
 	Alexey Pakhomov <br/>
