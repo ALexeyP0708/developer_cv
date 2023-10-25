@@ -4,7 +4,7 @@
 <table width="100%" ><tr><td>
 <img width="1000px"/>
 <img align="left" width="250" src="photo_2023-10-10_23-05-35.jpg"/><div align="right"> 
-	<b align="center">Junior +</b>
+	<b align="center">Junior + / Middle</b>
 	<br/>  <br/>
 	Alexey Pakhomov <br/>
 	born in 1984  	<br/> 
@@ -31,7 +31,7 @@
 <br/>
 
 ## Обо мне.
-Ищу не спеша работу PHP/JS программистом  на ставку Junior+.  Главные условия к команде - вы должны быть профессионалами. 
+Ищу не спеша работу PHP/JS программистом  на ставку Junior+ / Middle.  Главные условия к команде - вы должны быть профессионалами. 
 
 Самодостаточный со своими амбициями. 
 
