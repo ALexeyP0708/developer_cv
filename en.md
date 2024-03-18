@@ -11,7 +11,9 @@
 	from Russia, Yekaterinburg city  <br/>	
 	<br/>	
 	 Telegram : <a href="https://t.me/alexeyp0708">@alexeyp0708</a> <br/>
-	 Email : <a href="mailto:vacancy@sun66.ru">alexeyp0708@gmail.com</a><br/> 
+	 Email : <a href="mailto:alexeyp0708@gmail.com">alexeyp0708@gmail.com</a><br/>
+	<a href="https://github.com/ALexeyP0708">Github </a> <br/>
+	<a href="https://stackoverflow.com/users/11903519/alexeyp0708">Stackoverflow</a> <br/>
 	 <br/>
 	<br/>
 	<img src="https://img.shields.io/badge/PHP-%3E%3D7.4-blue"/> 
