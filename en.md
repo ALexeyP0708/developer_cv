@@ -47,12 +47,12 @@ Since there is no production experience, the objective assessment of my knowledg
 3.  Knowledge in PHP:
 	- PHP syntax - good knowledge;
 	-  PSR specification - middle knowledge.  
-	- ООП и SOLID - good knowledge.  At the stage of implementing an idea, I often write "bold" classes and "bold" methods.  In the future, I try to decompose code and share responsibility (S);
-	-  design patterns - minimum knowledge. I am familiar with design patterns, but I have not designed code based on patterns.  In my case, the design of the code was formed at the stage of writing the code.
-	- Unit tests- middle knowledge. Lately I've been began to write BDD tests.  TDD tests did not write;
-	- MVC/HMVC  -good knowledge;
+	- ООП и SOLID - good knowledge. 
+	- Unit tests- middle knowledge. 
+	- MVC  - good knowledge;
 	- composer- middle knowledge; 
 	- Laravel -  minimum (basic) knowledge. 
+        - frameworks  concept - - good knowledge;
 4. Knowledge in JS:
 	- ECMA Script  2015 and after - good knowledge;
 	- NodeJS - minimum knowledge;
@@ -65,17 +65,11 @@ Since there is no production experience, the objective assessment of my knowledg
 9.  GIT - middle knowledge;
 10. Linux - User level;
 11. Server administration:
-	- Apache 2.4 + PHP +MySQL + OpenSSL- setting up servers for the developer's environment;
-	- Ngnix - no experience;  
-12. Docker - no experience;
-13. CD/CI - no experience;
-14. Current IDE - PhpStrom ;
-15. English is minimal;
-
-Knowledge qualification and evolution of code quality can be assessed by looking at my repositories [GitHub](https://github.com/ALexeyP0708).    
-I ask you not to focus on the quality of the code, which you are used to writing.   
-From the first time, high-quality code is written only with well-formed code patterns.  
-In practice, in the first place is the implementation of the idea and its concept, then comes the implementation of quality (refactoring stage). And quality takes time and resources.
+	- Apache 2.4 + PHP +MySQL;
+	- Ngnix - basic;  
+12. Docker - basic;
+13. Current IDE - PhpStrom ;
+14. English is minimal;
 
 
 ## More about me.
