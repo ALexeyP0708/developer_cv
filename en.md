@@ -1,4 +1,3 @@
-Deprecated
 [Ru](ru.md)
 <h1 align="center">PHP developer CV</h1> 
 <table width="100%" ><tr><td>
