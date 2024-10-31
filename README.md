@@ -3,7 +3,7 @@
 <h1 align="center">PHP developer CV</h1> 
 <table width="100%" ><tr><td>
 <img width="1000px"/>
-<img align="left" width="250" src="photo_2023-10-10_23-05-35.jpg"/><div align="right"> 
+<img align="left" width="250" src="foto.jpg"/><div align="right"> 
 	<b align="center">Junior + / Middle</b>
 	<br/>  <br/>
 	Alexey Pakhomov <br/>
@@ -23,10 +23,15 @@
 	<img src="https://img.shields.io/badge/%20JS%20-%3E%3DECMA2015-orange"/><br/> 
 	<img src="https://img.shields.io/badge/PSR-green"/> 
 	<img src="https://img.shields.io/badge/SOLID-green"/> 
-	<img src="https://img.shields.io/badge/MVC+HMVC-green"/> 
+	<img src="https://img.shields.io/badge/MVC-green"/> 
 	<img src="https://img.shields.io/badge/PHPDoc-green"/> 
-	<img src="https://img.shields.io/badge/JSDoc-green"/> <br/> 
-	<img src="https://img.shields.io/badge/OpenAPI+JSONSchema-orange"/> 
+	<img src="https://img.shields.io/badge/JSDoc-green"/> 
+	<img src="https://img.shields.io/badge/OpenAPI+JSONSchema-green"/>  <br/>
+	<img src="https://img.shields.io/badge/Linux-teal"/>  
+	<img src="https://img.shields.io/badge/Nginx-teal"/>
+        <img src="https://img.shields.io/badge/Apache-teal"/>
+        <img src="https://img.shields.io/badge/Docker-teal"/>
+
 </div></td></tr></table>
 <br/>
 
